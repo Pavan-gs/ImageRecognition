@@ -1,2 +1,3 @@
-def squred(x):
-  print("The square of x is ",x*x)
+def sum(x):
+  '''This is an edited version of Main branch'''
+  print("The square of x is ",x+x)
